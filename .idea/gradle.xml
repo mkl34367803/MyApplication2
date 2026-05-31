@@ -10,12 +10,15 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/materialtest" />
             <option value="$PROJECT_DIR$/playaudiotest" />
             <option value="$PROJECT_DIR$/playvideotest" />
             <option value="$PROJECT_DIR$/runtimepermissiontest" />
             <option value="$PROJECT_DIR$/selectmultiphoto" />
             <option value="$PROJECT_DIR$/servicetest" />
             <option value="$PROJECT_DIR$/toolbartest" />
+            <option value="$PROJECT_DIR$/toolbartest2" />
+            <option value="$PROJECT_DIR$/toolbartest3" />
           </set>
         </option>
       </GradleProjectSettings>

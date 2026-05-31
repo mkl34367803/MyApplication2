@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ToolBarTest3</string>
+    <string name="menu_search">搜索</string>
+    <string name="menu_favorite">收藏</string>
+    <string name="menu_share">分享</string>
+    <string name="menu_settings">设置</string>
+    <string name="menu_about">关于</string>
+    <string name="toolbar_title">Material Toolbar 示例</string>
+    <string name="content_text">这是内容区域\n\n点击上方 Toolbar 的按钮查看效果。\n\n- 搜索、收藏、分享按钮显示在 Toolbar 上\n- 设置、关于在溢出菜单中</string>
+</resources>
